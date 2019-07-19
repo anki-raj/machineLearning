@@ -8,7 +8,7 @@ This repository contains intuition about the machine learning algorithms, data p
     sklearn
     matplotlib
 
-  #### Data preprocessing
+  ## Data preprocessing
 
   Does the required preprocessing of the datasets
   
@@ -20,7 +20,7 @@ This repository contains intuition about the machine learning algorithms, data p
     5. Split the dataset to train and test sets
     6. Feature scaling
   
-  #### Classifier
+  ## Classifier
   Builds a logistic regression classifier of a dataset to classify if a person will buy a car or not.
   The model predicts the output based on the age and salary of the person.
 
